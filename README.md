@@ -43,5 +43,8 @@ Please use Python to complete this challenge. Host the submission in a GitHub re
 
 -END-
 
-
+Codes
+https://builtin.com/data-science/time-series-forecasting-python
+Theory 
+https://people.duke.edu/~rnau/Slides_on_ARIMA_models--Robert_Nau.pdf
  	```
